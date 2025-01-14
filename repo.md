@@ -1,3 +1,8 @@
+---
+title: "xeocean: My repositories"
+permalink: /repos/
+---
+
 # My Repositories
 
 <div id="repos">
