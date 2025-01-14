@@ -4,7 +4,9 @@ permalink: /
 ---
 
 I’m a budding **Backend Developer** and **Data Science Enthusiast** passionate about building scalable web applications and deriving insights from data.
+
 You can find all my repositories on the [Repositories Page](/repos/).
+
 ## Stack: ✨
 
 ### **Languages & Frameworks**   
