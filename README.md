@@ -1,5 +1,3 @@
-## Greetings 👋
-
 I’m a budding **Backend Developer** and **Data Science Enthusiast** passionate about building scalable web applications and deriving insights from data.
 
 ## Stack: ✨
@@ -21,11 +19,3 @@ I’m a budding **Backend Developer** and **Data Science Enthusiast** passionate
 
 ### **Testing & Automation**  
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
-
----
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeocean&layout=compact&hide=c)
-
-</div>
