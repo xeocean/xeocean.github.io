@@ -9,4 +9,4 @@ permalink: /repos/
   Loading...
 </div>
 
-<script src="./fetch_repos.js"></script>
+<script src="fetch_repos.js"></script>
