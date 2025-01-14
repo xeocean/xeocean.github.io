@@ -13,7 +13,7 @@ async function fetchRepositories() {
     const response = await fetch(apiUrl);
 
     if (!response.ok) {
-      throw new Error(`Ошибка: ${response.status}`);
+      throw new Error(`Error: ${response.status}`);
     }
 
     const repositories = await response.json();
@@ -42,7 +42,7 @@ function renderPage(repositories) {
         <div>
           <h3><a href="${repo.html_url}" target="_blank">${repo.name}</a></h3>
           <p>${repo.description || "No description provided"}</p>
-          <p>✨ Language: ${repo.stargazers_count}</p>
+          <p>✨ Language: ${repo.language || "Not defined"}</p>
           <p>📅 Last updated: ${new Date(repo.updated_at).toLocaleDateString()}</p>
         </div>
       `
