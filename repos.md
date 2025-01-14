@@ -3,7 +3,9 @@ title: "xeocean: My repositories"
 permalink: /repos/
 ---
 
-# My Repositories:
+## My Repositories:
+
+You can find info about me on the [About me](/).
 
 <div id="repos">
   Loading...
