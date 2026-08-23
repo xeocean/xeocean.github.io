@@ -1,6 +1,7 @@
 ---
 title: "xeocean: GitHub Page"
 permalink: /
+---
 
 ## Greetings 👋
 
@@ -53,3 +54,4 @@ Graduate, **Data Science** specialisation. Repositories below are coursework —
 - **[DS Projects](https://github.com/xeocean/DS_Projects)** — NLP: bag of words, TF-IDF, lemmatization, word2vec; neural networks; graph-based recommendations; image segmentation
 
 Core program also covered Linux, networking, monitoring, Docker and CI/CD — **[DevOps](https://github.com/xeocean/CoreProgram_DevOps)**.
+---
