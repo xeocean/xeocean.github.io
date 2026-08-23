@@ -17,6 +17,8 @@ Core stack: SQL, PostgreSQL, Python. Moving toward **analytics engineering**. Ba
 - **Modelling** — driver models of workload and efficiency, bonus calculators, sales plans
 - **Analysis** — cohorts, plan-versus-actual variance, significance testing
 - **Automation** — scheduled ETL, CRM and REST API integrations, LLM content processing — manual reporting work cut by more than half
+  
+You can find all my repositories on the [Repositories Page](/repos/).
 
 ## Stack ✨
 
