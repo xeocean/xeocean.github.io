@@ -1,30 +1,55 @@
 ---
 title: "xeocean: GitHub Page"
 permalink: /
----
 
-I’m a budding **Backend Developer** and **Data Science Enthusiast** passionate about building scalable web applications and deriving insights from data.
+## Greetings 👋
 
-You can find all my repositories on the [Repositories Page](/repos/).
+**Data Analyst** — I close the full cycle: requirements from stakeholders → data model → SQL → BI dashboard in production → support.
 
-## Stack: ✨
+Core stack: SQL, PostgreSQL, Python. Moving toward **analytics engineering**. Background also covers backend development and ML/DL.
 
-### **Languages & Frameworks**   
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+## Experience 💼
 
----
+- **Requirements** — interviews with department heads, calculation logic, documented methodology
+- **Data layer** — specs and mappings for the DB vendor, reporting migrated from spreadsheets to PostgreSQL
+- **BI** — production dashboards: sales funnel, conversion, unit efficiency, renewals, finance
+- **Modelling** — driver models of workload and efficiency, bonus calculators, sales plans
+- **Analysis** — cohorts, plan-versus-actual variance, significance testing
+- **Automation** — scheduled ETL, CRM and REST API integrations, LLM content processing — manual reporting work cut by more than half
 
-### **Databases & Data Tools**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-0A7EA6?style=for-the-badge&logo=seaborn&logoColor=white) ![Sckit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+## Stack ✨
 
----
-
-### **DevOps & Tools**  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-808080?style=for-the-badge&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-
----
-
-### **Testing & Automation**  
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
+### **Data & Analytics**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-0A7EA6?style=for-the-badge)
 
 ---
+
+### **BI & Automation**
+![DataLens](https://img.shields.io/badge/DataLens-0077FF?style=for-the-badge&logo=yandexcloud&logoColor=white) ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white)
+
+---
+
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+---
+
+### **Backend & APIs**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+---
+
+### **Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+## School 21 🎓
+
+Graduate, **Data Science** specialisation. Repositories below are coursework — training exercises, not production code.
+
+- **[SQL Bootcamp](https://github.com/xeocean/SQL_Bootcamp)** — joins, DML, views and materialized views, indexes, transactions and isolation levels, PL/pgSQL, triggers, recursive CTE, ETL
+- **[DS Bootcamp](https://github.com/xeocean/DS_Bootcamp)** — Python, OOP, pandas, virtual environments, code performance
+- **[ML Projects](https://github.com/xeocean/ML_Projects)** — exploratory analysis, feature engineering, classic supervised and unsupervised models
+- **[DL Projects](https://github.com/xeocean/DL_Projects)** — fully connected networks, CNN, RNN with LSTM and GRU
+- **[DS Projects](https://github.com/xeocean/DS_Projects)** — NLP: bag of words, TF-IDF, lemmatization, word2vec; neural networks; graph-based recommendations; image segmentation
+
+Core program also covered Linux, networking, monitoring, Docker and CI/CD — **[DevOps](https://github.com/xeocean/CoreProgram_DevOps)**.
